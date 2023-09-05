@@ -6,7 +6,7 @@ const callbackFn = (err, data)=>{
         error("not available")
     }
     else{
-        return data
+        console.log(data)
     }
 }
 
